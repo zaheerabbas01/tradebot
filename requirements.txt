@@ -1,0 +1,11 @@
+ccxt
+websockets
+numpy
+pandas
+ta
+tensorflow
+gspread
+oauth2client
+python-telegram-bot
+requests
+deap
